@@ -1,15 +1,10 @@
-# atcorder
+# AtCoder
 
-To install dependencies:
+## AtCoder Beginners Selection
 
-```bash
-bun install
-```
+https://atcoder.jp/contests/abs
 
-To run:
+## AtCoderProblems
 
-```bash
-bun run index.ts
-```
+https://kenkoooo.com/atcoder/#/table/
 
-This project was created using `bun init` in bun v1.3.10. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
