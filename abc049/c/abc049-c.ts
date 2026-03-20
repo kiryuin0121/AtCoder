@@ -2,7 +2,6 @@ const input:string = await Bun.stdin.text();
 const lines:string[] = input.trim().split("\n").map((line) => line.trim());
 const S = lines[0] as string;
 let s = S;
-
 while (s.length > 0) {
   if (s.endsWith("dreamer")) {
     s = s.slice(0, -7);
