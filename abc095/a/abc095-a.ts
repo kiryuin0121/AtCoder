@@ -1,4 +1,5 @@
 const input:string = await Bun.stdin.text();
 const lines:string[] = input.trim().split("\n").map((line) => line.trim());
 const S = lines[0] as string;
-console.log(S.replace("2017/","2018/"))
+const topping = (S.match(/o/g)||[]).length;
+console.log(700+topping*100);
