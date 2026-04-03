@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc072",
+    "title": "AtCoder Beginner Contest 072",
+    "url": "https://atcoder.jp/contests/abc072"
+  },
+  "tasks": [
+    {
+      "id": "abc072_a",
+      "label": "A",
+      "title": "Sandglass2",
+      "url": "https://atcoder.jp/contests/abc072/tasks/abc072_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "abc072/a/abc072-a.ts"
+      }
+    },
+    {
+      "id": "abc072_b",
+      "label": "B",
+      "title": "OddString",
+      "url": "https://atcoder.jp/contests/abc072/tasks/abc072_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "abc072/b/abc072-b.ts"
+      }
+    },
+    {
+      "id": "arc082_a",
+      "label": "C",
+      "title": "Together",
+      "url": "https://atcoder.jp/contests/abc072/tasks/arc082_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "abc072/c/abc072-c.ts"
+      }
+    },
+    {
+      "id": "arc082_b",
+      "label": "D",
+      "title": "Derangement",
+      "url": "https://atcoder.jp/contests/abc072/tasks/arc082_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "abc072/d/abc072-d.ts"
+      }
+    }
+  ]
+}
