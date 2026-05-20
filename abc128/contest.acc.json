@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc128",
+    "title": "AtCoder Beginner Contest 128",
+    "url": "https://atcoder.jp/contests/abc128"
+  },
+  "tasks": [
+    {
+      "id": "abc128_a",
+      "label": "A",
+      "title": "Apple Pie",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "abc128/a/abc128-a.ts"
+      }
+    },
+    {
+      "id": "abc128_b",
+      "label": "B",
+      "title": "Guidebook",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "abc128/b/abc128-b.ts"
+      }
+    },
+    {
+      "id": "abc128_c",
+      "label": "C",
+      "title": "Switches",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "abc128/c/abc128-c.ts"
+      }
+    },
+    {
+      "id": "abc128_d",
+      "label": "D",
+      "title": "equeue",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "abc128/d/abc128-d.ts"
+      }
+    },
+    {
+      "id": "abc128_e",
+      "label": "E",
+      "title": "Roadwork",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "abc128/e/abc128-e.ts"
+      }
+    },
+    {
+      "id": "abc128_f",
+      "label": "F",
+      "title": "Frog Jump",
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "abc128/f/abc128-f.ts"
+      }
+    }
+  ]
+}
